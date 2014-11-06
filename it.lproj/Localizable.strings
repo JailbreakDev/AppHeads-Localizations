@@ -1,6 +1,6 @@
 "ENABLED" = "Abilitato";
-"REQUIRES_RESPRING" = "Changing this setting requires a respring.";
-"APPHEADS_SETTINGS" = "Impostazioni AppHeads";
+"REQUIRES_RESPRING" = "Cambiare le impostazioni richiede un respring.";
+"APPHEADS_SETTINGS" = "Impostazioni di AppHeads";
 "ENABLE_FOR_ALL_APPS" = "Abilita per tutte le applicazioni";
 "ENABLED_APPS" = "Applicazioni abilitate";
 "ENABLED_APPS_INFO" = "Di default tutte le applicazioni sono abilitate. Se vuoi permettere solo a certe applicazioni di essere mostrate come AppHead, sceglile sotto.";
@@ -29,8 +29,8 @@
 "SYSTEM_APPS" = "Applicazioni sistema";
 "USER_APPS" = "Applicazioni utente";
 "FREE" = "Libero";
-"LOCKED_TOP" = "Blocca in cima";
-"LOCKED_BOTTOM" = "Blocca in fondo";
+"LOCKED_TOP" = "Blocca in alto";
+"LOCKED_BOTTOM" = "Blocca in basso";
 "LOCKED_LEFT" = "Blocca a sinistra";
 "LOCKED_RIGHT" = "Blocca a destra";
 "SNAP_LEFT" = "Bordo sinistro";
