@@ -40,7 +40,7 @@
 "OPEN_APP" = "Öppna applikation";
 "CLOSE_APP" = "Stäng Applikation";
 "CLOSE_ALL_APPS" = "Stäng samtliga applikationer";
-"ACTIVATOR_NOT_INSTALLED" = "Activator är inte installerad.";
+"ACTIVATOR_NOT_INSTALLED" = "Activator är inte installerat.";
 "DEVICE_CANNOT_AUTHENTICATE" = "Din enhet kan inte autetisera med TouchID";
 "TOUCHID_NOT_AVAILABLE" = "Touch ID är inte tillgängligt för din Enhet.";
 "TOUCHID_NOT_CONFIGURED" = "Touch ID har inte konfigurerats än.";
