@@ -49,7 +49,7 @@
 "SNAP_LEFT" = "Le bord gauche";
 "SNAP_RIGHT" = "Le bord droit";
 "SYSTEM_APPS" = "Applications Système";
-"THANKS_TO" = "J'aimerais également remercier Evan Switch, Dustin Howett (DHowett), twodayslate, Cykey, Ryan Petrich (rpetrich), Mathias Hochgatterer, EvilPenguin, limneos, Apple (Et oui, Apple est aussi une personne :P). S'il vous plaît plaignez-vous si j'ai oublié quelqu'un. :P";
+"THANKS_TO" = "J'aimerais également remercier Evan Swick, Dustin Howett (DHowett), twodayslate, Cykey, Ryan Petrich (rpetrich), Mathias Hochgatterer, EvilPenguin, limneos, Apple (Et oui, Apple est aussi une personne :P). S'il vous plaît plaignez-vous si j'ai oublié quelqu'un. :P";
 "TOUCHID_DESCRIPTION" = "Cette option requiet une authentification par Touch ID avant d'afficher AppHeads. Vous pouvez choisir certaines Applications à activer avec le Touch ID.";
 "TOUCHID_LIVE_VIEW" = "Touch ID pour afficher la fenêtre";
 "TOUCHID_NOT_AVAILABLE" = "Le Touch ID n'est pas disponible sur votre Appareil.";

@@ -24,7 +24,7 @@
 "HOLD_ACTION_DESCRIPTION" = "Wähle eine Aktion aus, die ausgeführt wird, nachdem du einen AppHead länger gehalten hast.";
 "DEV_AND_DESIGNER" = "Entwickler & Designer";
 "ACKNOWLEDGEMENTS" = "Danksagungen";
-"THANKS_TO" = "Ich möchte folgenden Personen danken: Evan Switch, Dustin Howett (DHowett), twodayslate, Cykey, Ryan Petrich (rpetrich), Mathias Hochgatterer, EvilPenguin, limneos, Apple (ja, auch Apple ist eine Person :P). Bitte beschwer dich, wenn ich dich vergessen habe. :P";
+"THANKS_TO" = "Ich möchte folgenden Personen danken: Evan Swick, Dustin Howett (DHowett), twodayslate, Cykey, Ryan Petrich (rpetrich), Mathias Hochgatterer, EvilPenguin, limneos, Apple (ja, auch Apple ist eine Person :P). Bitte beschwer dich, wenn ich dich vergessen habe. :P";
 "AVAILABLE_APPS" = "Verfügbare Apps";
 "SYSTEM_APPS" = "System Apps";
 "USER_APPS" = "Benutzer Apps";
