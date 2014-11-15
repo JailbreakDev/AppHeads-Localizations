@@ -1,7 +1,7 @@
 "BACKGROUND_VIEW" = "Background View";
 "BACKGROUND_VIEW_DESCRIPTION" = "Choose the Background View when an AppHead is showing its Live View";
 "LIVE_VIEW_SIZE" = "Live View의 크기를 설정하세요.";
-"CORNER_RADIUS" = "Set the corner radius of the Live View";
+"CORNER_RADIUS" = "Live View의 모서리 반경을 설정하세요.";
 "BORDER_WIDTH" = "Live View의 테두리 두께를 설정하세요.";
 "BORDER_COLOR" = "Live View의 테두리 색을 설정하세요.";
 "BACKGROUND_VIEW_OPTION_LAST_APP" = "마지막으로 실행된 앱";
