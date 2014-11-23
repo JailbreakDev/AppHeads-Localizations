@@ -1,12 +1,12 @@
 "ENABLED" = "활성화";
-"REQUIRES_RESPRING" = "리스프링을 해야 변경한 설정이 적용됩니다.";
+"REQUIRES_RESPRING" = "리스프링 하셔야 변경한 설정이 적용됩니다.";
 "APPHEADS_SETTINGS" = "AppHeads 설정";
 "ENABLE_FOR_ALL_APPS" = "모든 어플리케이션에서 활성화";
 "ENABLED_APPS" = "어플리케이션에서 활성화";
-"ENABLED_APPS_INFO" = "By default all Apps are enabled. If you want to want to allow only certain apps to be shown as an AppHead, choose them above.";
+"ENABLED_APPS_INFO" = "기본적으로 모든 어플리케이션에서 적용됩니다. 특정 애플리케이션에서만 AppHead로 표시할 수 있도록 하기 위해선 위에서 선택해주세요.";
 "SHOW_HIDE_ACTION" = "보임 / 숨김 동작";
 "SHOW_HIDE_DESCRIPTION" = "액티베이터로 보임 / 숨김 동작을 설정해 주세요.";
-"DESIGN_VIEW" = "Design the View";
+"DESIGN_VIEW" = "View 디자인하기";
 "DESIGN_VIEW_DESCRIPTION" = "Live View의 모습을 디자인해 주세요.";
 "DISPLAY_MODE" = "화면 표시 방식";
 "DISPLAY_MODE_DESCRIPTION" = "AppHeads의 화면 표시 방식을 선택해 주세요.. %@";
@@ -16,8 +16,8 @@
 "EXCLUDE_MAIL_DESCRIPTION" = "메일 앱은 항상 실행중인 어플리케이션이라 AppHead가 계속 떠 있을수 있습니다. 이 설정은 메일 앱을 제외시켜 줍니다.";
 "HIDE_IN_VIDEOS" = "동영상 재생중 숨김";
 "HIDE_IN_VIDEOS_DESCRIPTION" = "이 기능을 선택하면 AppHead는 동영상을 재생할 때 일시적으로 사라진 후 재생이 끝나면 다시 나타납니다.";
-"ALLOWED_SNAP_LOCATION" = "Allowed Edges";
-"ALLOWED_SNAP_LOCATION_DESCRIPTION" = "Choose the AppHead Snap Location.";
+"ALLOWED_SNAP_LOCATION" = "가장자리 허용";
+"ALLOWED_SNAP_LOCATION_DESCRIPTION" = "AppHead 스냅 위치를 선택하세요.";
 "SINGLE_TAP_ACTION" = "한 번 누름";
 "SINGLE_TAP_ACTION_DESCRIPTION" = "AppHead를 한 번 누르는 동작을 통해 활성화 시킵니다.";
 "HOLD_ACTION" = "홀드 동작";
@@ -48,7 +48,7 @@
 "OTHER_ERROR" = "오류가 발생하였습니다.";
 "TOUCHID_DESCRIPTION" = "이 설정은 AppHeads가 Live View를 표시하기 전에 Touch ID를 사용하여 인증해야 합니다. Live View를 표시하기 전에 Touch ID 확인을 필요로 하는 특정 애플리케이션을 선택할 수 있습니다.";
 "TOUCHID_LIVE_VIEW" = "Live View의 Touch ID";
-"CONFIRM_LIVE_VIEW" = "Live-View 표시하기 전에 확인";
+"CONFIRM_LIVE_VIEW" = "Live-View를 표시하기 전에 확인";
 "ERROR_NO_64BIT" = "Touch ID는 64비트 기기에서만 사용 가능합니다.";
 "ABOUT" = "정보";
 "AUTHENTICATE" = "인증";
