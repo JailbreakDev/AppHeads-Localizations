@@ -3,7 +3,7 @@
 "APPHEADS_SETTINGS" = "AppHeads 설정";
 "ENABLE_FOR_ALL_APPS" = "모든 어플리케이션에서 활성화";
 "ENABLED_APPS" = "어플리케이션에서 활성화";
-"ENABLED_APPS_INFO" = "기본적으로 모든 어플리케이션에서 적용됩니다. 특정 애플리케이션에서만 AppHead로 표시할 수 있도록 하기 위해선 위에서 선택해주세요.";
+"ENABLED_APPS_INFO" = "기본적으로 모든 어플리케이션에서 적용됩니다. 특정 어플리케이션에서만 AppHead로 표시할 수 있도록 하기 위해선 위에서 선택해주세요.";
 "SHOW_HIDE_ACTION" = "보임 / 숨김 동작";
 "SHOW_HIDE_DESCRIPTION" = "액티베이터로 보임 / 숨김 동작을 설정해 주세요.";
 "DESIGN_VIEW" = "View 디자인하기";
