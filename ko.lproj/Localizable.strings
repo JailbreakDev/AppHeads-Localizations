@@ -1,9 +1,9 @@
 "ENABLED" = "활성화";
-"REQUIRES_RESPRING" = "리스프링 하셔야 변경한 설정이 적용됩니다.";
+"REQUIRES_RESPRING" = "리스프링을 하셔야 변경한 설정이 적용됩니다.";
 "APPHEADS_SETTINGS" = "AppHeads 설정";
 "ENABLE_FOR_ALL_APPS" = "모든 어플리케이션에서 활성화";
 "ENABLED_APPS" = "어플리케이션에서 활성화";
-"ENABLED_APPS_INFO" = "기본적으로 모든 어플리케이션에서 적용됩니다. 특정 어플리케이션에서만 AppHead로 표시할 수 있도록 하기 위해선 위에서 선택해주세요.";
+"ENABLED_APPS_INFO" = "기본적으로 모든 어플리케이션에서 적용됩니다. 특정 어플리케이션에서만 AppHeads로 표시할 수 있도록 하기 위해선 위에서 선택해주세요.";
 "SHOW_HIDE_ACTION" = "보임 / 숨김 동작";
 "SHOW_HIDE_DESCRIPTION" = "액티베이터로 보임 / 숨김 동작을 설정해 주세요.";
 "DESIGN_VIEW" = "View 디자인하기";
@@ -11,7 +11,7 @@
 "DISPLAY_MODE" = "화면 표시 방식";
 "DISPLAY_MODE_DESCRIPTION" = "AppHeads의 화면 표시 방식을 선택해 주세요.. %@";
 "ALLOW_IN_LS" = "잠금화면에서 사용 가능";
-"ALLOW_IN_LS_DESCRIPTION" = "사용자는 잠금화면에서 사용 여부를 선택할 수 있습니다. 앱들의 보안을 위해서 기본적으로 사용 안함이 선택되어 있습니다.";
+"ALLOW_IN_LS_DESCRIPTION" = "사용자는 잠금화면에서 사용 여부를 선택할 수 있습니다. 앱들의 보안을 위해서 기본적으로 사용 안함으로 선택되어 있습니다.";
 "EXCLUDE_MAIL" = "메일 앱 제외";
 "EXCLUDE_MAIL_DESCRIPTION" = "메일 앱은 항상 실행중인 어플리케이션이라 AppHead가 계속 떠 있을수 있습니다. 이 설정은 메일 앱을 제외시켜 줍니다.";
 "HIDE_IN_VIDEOS" = "동영상 재생중 숨김";
@@ -46,7 +46,7 @@
 "TOUCHID_NOT_CONFIGURED" = "Touch ID가 아직 설정되지 않았습니다.";
 "PASSCODE_NOT_SET" = "기기에 암호를 설정하지 않아서 Touch ID를 사용할 수 없습니다.";
 "OTHER_ERROR" = "오류가 발생하였습니다.";
-"TOUCHID_DESCRIPTION" = "이 설정은 AppHeads가 Live View를 표시하기 전에 Touch ID를 사용하여 인증해야 합니다. Live View를 표시하기 전에 Touch ID 확인을 필요로 하는 특정 애플리케이션을 선택할 수 있습니다.";
+"TOUCHID_DESCRIPTION" = "이 설정은 AppHeads가 Live View를 표시하기 전에 Touch ID를 사용하여 인증해야 합니다. Live View를 표시하기 전에 Touch ID 확인을 필요로 하는 특정 어플리케이션을 선택할 수 있습니다.";
 "TOUCHID_LIVE_VIEW" = "Live View의 Touch ID";
 "CONFIRM_LIVE_VIEW" = "Live-View를 표시하기 전에 확인";
 "ERROR_NO_64BIT" = "Touch ID는 64비트 기기에서만 사용 가능합니다.";
