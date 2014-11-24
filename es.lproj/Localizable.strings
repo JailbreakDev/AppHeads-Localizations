@@ -1,5 +1,5 @@
 "ENABLED" = "Habilitado";
-"REQUIRES_RESPRING" = "Cambiando este ajuste requiere un respring.";
+"REQUIRES_RESPRING" = "Cambiar este ajuste requiere un respring.";
 "APPHEADS_SETTINGS" = "Ajustes de AppHeads";
 "ENABLE_FOR_ALL_APPS" = "Habilitar para todas las aplicaciones";
 "ENABLED_APPS" = "Aplicaciones Habilitadas";
@@ -7,7 +7,7 @@
 "SHOW_HIDE_ACTION" = "Acción Mostrar / Ocultar";
 "SHOW_HIDE_DESCRIPTION" = "Asignar una acción de Activator para mostrar / ocultar AppHeads.";
 "DESIGN_VIEW" = "Diseñar la Vista";
-"DESIGN_VIEW_DESCRIPTION" = "Design the Live View's appearance.";
+"DESIGN_VIEW_DESCRIPTION" = "Diseñar la apariencia de el Live View.";
 "DISPLAY_MODE" = "Modo de Visualización";
 "DISPLAY_MODE_DESCRIPTION" = "Escoje el Modo de Visualización de AppHeads. %@";
 "ALLOW_IN_LS" = "Permitir en la Pantalla de Bloqueo";
@@ -15,8 +15,8 @@
 "EXCLUDE_MAIL" = "Excluir la Aplicación de Correo";
 "EXCLUDE_MAIL_DESCRIPTION" = "La Aplicación de Correo es una aplicación que siempre está funcionando, por lo que vas a ver permanentemente un AppHead de esta en la pantalla. Esta opción excluye la Aplicación de Correo.";
 "HIDE_IN_VIDEOS" = "Ocultar durante los videos";
-"HIDE_IN_VIDEOS_DESCRIPTION" = "When active, AppHeads will temporarily be hidden when watching a Video and they will reappear when the Video ends.";
-"ALLOWED_SNAP_LOCATION" = "Bordes Permitidos";
+"HIDE_IN_VIDEOS_DESCRIPTION" = "Cuando esta activad, las appheads se ocultaran temporalmente mientras se reproduce un video y reapareceran al terminar el video.";
+"ALLOWED_SNAP_LOCATION" = "Permitir Bordes";
 "ALLOWED_SNAP_LOCATION_DESCRIPTION" = "Escoge el lugar de acople de AppHead.";
 "SINGLE_TAP_ACTION" = "Acción de un solo toque";
 "SINGLE_TAP_ACTION_DESCRIPTION" = "Toca una vez en el AppHead para invocar esta acción.";
@@ -28,7 +28,7 @@
 "AVAILABLE_APPS" = "Applicaciones Disponibles";
 "SYSTEM_APPS" = "Aplicaciones del Sistema";
 "USER_APPS" = "Aplicaciones del Usuario";
-"FREE" = "Gratis";
+"FREE" = "Libre";
 "LOCKED_TOP" = "Bloqueado Arriba";
 "LOCKED_BOTTOM" = "Bloqueado Abajo";
 "LOCKED_LEFT" = "Bloqueado a la Izquierda";
