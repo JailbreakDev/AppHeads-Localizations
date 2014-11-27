@@ -1,5 +1,5 @@
 "ENABLED" = "Aktifkan";
-"REQUIRES_RESPRING" = "Menguhab pengaturan ini memerlukan respring.";
+"REQUIRES_RESPRING" = "Mengubah pengaturan ini memerlukan respring.";
 "APPHEADS_SETTINGS" = "Pengaturan AppHeads";
 "ENABLE_FOR_ALL_APPS" = "Aktifkan untuk semua Aplikasi";
 "ENABLED_APPS" = "Aplikasi yang diaktifkan";
