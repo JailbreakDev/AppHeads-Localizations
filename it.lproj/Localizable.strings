@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-ENABLED" = "Abilita";
+"ENABLED" = "Abilita";
 "REQUIRES_RESPRING" = "Cambiare questa impostazione richiede un respring.";
 "APPHEADS_SETTINGS" = "Impostazioni AppHeads";
 "ENABLE_FOR_ALL_APPS" = "Abilita per tutte le applicazioni";
@@ -112,5 +111,4 @@ ENABLED" = "Abilita";
 "AUTHENTICATE" = "Autenticati";
 "AUTHENTICATE_DESCRIPTION" = "Autenticati con il TouchID prima di avviare la Live View";
 "CANCEL" = "Cancella";
->>>>>>> 858f4ad8b9b526e0d4d49c49e10fd0aa1833b319
 "RESPRING" = "Respring";
