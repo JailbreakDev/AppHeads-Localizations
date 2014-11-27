@@ -7,7 +7,7 @@
 "SHOW_HIDE_ACTION" = "Aksi Tampilkan / Sembunyikan";
 "SHOW_HIDE_DESCRIPTION" = "Tetapkan sebuah aksi Activator untuk menampilkan / menyembunyikan AppHeads.";
 "DESIGN_VIEW" = "Rancang Tampilan";
-"DESIGN_VIEW_DESCRIPTION" = "Rancang penampakan Tampilan Langsung.";
+"DESIGN_VIEW_DESCRIPTION" = "Rancang penampakan Live View.";
 "DISPLAY_MODE" = "Modus Tampilan";
 "DISPLAY_MODE_DESCRIPTION" = "Pilih Modus Tampilan AppHead. %@";
 "ALLOW_IN_LS" = "Ijinkan di Layar terkunci";
@@ -47,8 +47,8 @@
 "PASSCODE_NOT_SET" = "Perangkat anda tidak memiliki kode sandi, sehingga Touch ID dinonaktifkan.";
 "OTHER_ERROR" = "Muncul galat yang lain.";
 "TOUCHID_DESCRIPTION" = "Pengaturan ini memerlukan Anda untuk mengotentikasi menggunakan Touch ID sebelum AppHeads memunculkan Tampilan Langsungnya. Anda dapat memilih beberapa aplikasi tertentu yang memerlukan pengaturan konfirmasi Touch ID sebelum memunculkan Tampilan Langsung.";
-"TOUCHID_LIVE_VIEW" = "Touch ID untuk Tampilan Langsung";
-"CONFIRM_LIVE_VIEW" = "Tegaskan untuk menampilkan Tampilan-Langsung.";
+"TOUCHID_LIVE_VIEW" = "Touch ID untuk Live View";
+"CONFIRM_LIVE_VIEW" = "Tegaskan untuk menampilkan Live View.";
 "ERROR_NO_64BIT" = "Touch ID hanya ada pada perangkat 64bit.";
 "ABOUT" = "Tentang";
 "AUTHENTICATE" = "Otentikasi";
