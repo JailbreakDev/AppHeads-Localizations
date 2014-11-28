@@ -50,3 +50,6 @@
 "CANCEL" = "취소";
 "RESPRING" = "리스프링";
 "DRAG_TO_CLOSE" = "Drag here to close an AppHead";
+"LOCK_UNLOCK" = "Lock / Unlock AppHead (Free Mode)";
+"DOUBLE_TAP_ACTION" = "Double Tap Action";
+"DOUBLE_TAP_DESCRIPTION" = "Assign an action which will be executed when double tapping on an AppHead";
