@@ -16,14 +16,12 @@
 "DESIGN_VIEW" = "Modifier la fenêtre";
 "DESIGN_VIEW_DESCRIPTION" = "Modifier l'apparence de la fenêtre.";
 "DEV_AND_DESIGNER" = "Développeur & Designer";
-"DEVICE_CANNOT_AUTHENTICATE" = "Votre appareil ne peut pas s'authentifier avec le Touch ID";
 "DISPLAY_MODE" = "Mode d'affichage";
 "DISPLAY_MODE_DESCRIPTION" = "Choisir le mode d'affichage de AppHeads. %@";
 "ENABLE_FOR_ALL_APPS" = "Activer pour toutes les Applications";
 "ENABLED" = "Activer";
 "ENABLED_APPS" = "Activer les Applications";
 "ENABLED_APPS_INFO" = "Par défaut les Applications sont activées. Si vous voulez, vous ne pouvez l'autoriser que dans certaines Applications pour afficher AppHeads, choisissez les avant.";
-"ERROR_NO_64BIT" = "Le Touch ID n'existe que sur les appareils 64bits.";
 "EXCLUDE_MAIL" = "Exclure l'Application Mail";
 "EXCLUDE_MAIL_DESCRIPTION" = "L'Application Mail est constamment ouverte cela signifie que vous avez AppHead ouvert en permanence sur votre écran. Ce réglage exclut l'Application Mail.";
 "FREE" = "Gratuit";
@@ -36,8 +34,6 @@
 "LOCKED_RIGHT" = "Verouiller à droite";
 "LOCKED_TOP" = "Verouiller en haut";
 "OPEN_APP" = "Ouvrir une Application";
-"OTHER_ERROR" = "Une autre erreur est survenue.";
-"PASSCODE_NOT_SET" = "Votre appareil n'a pas de mot de passe, le Touch ID est donc désactivé.";
 "REQUIRES_RESPRING" = "Cette option nécessite un Respring pour fonctionner.";
 "RESPRING" = "Respring";
 "SHOW_HIDE_ACTION" = "Afficher/Masquer  l'Action";
@@ -52,6 +48,5 @@
 "THANKS_TO" = "J'aimerais également remercier Evan Swick, Dustin Howett (DHowett), twodayslate, Cykey, Ryan Petrich (rpetrich), Mathias Hochgatterer, EvilPenguin, limneos, Apple (Et oui, Apple est aussi une personne :P). S'il vous plaît plaignez-vous si j'ai oublié quelqu'un. :P";
 "TOUCHID_DESCRIPTION" = "Cette option requiet une authentification par Touch ID avant d'afficher AppHeads. Vous pouvez choisir certaines Applications à activer avec le Touch ID.";
 "TOUCHID_LIVE_VIEW" = "Touch ID pour afficher la fenêtre";
-"TOUCHID_NOT_AVAILABLE" = "Le Touch ID n'est pas disponible sur votre Appareil.";
-"TOUCHID_NOT_CONFIGURED" = "Le Touch ID n'est pas configuré.";
 "USER_APPS" = "Applications de l'utilisateur";
+"DRAG_TO_CLOSE" = "Drag here to close an AppHead";
