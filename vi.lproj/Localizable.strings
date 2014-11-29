@@ -52,4 +52,5 @@
 "DRAG_TO_CLOSE" = "Drag here to close an AppHead";
 "LOCK_UNLOCK" = "Lock / Unlock AppHead (Free Mode)";
 "DOUBLE_TAP_ACTION" = "Double Tap Action";
-"DOUBLE_TAP_DESCRIPTION" = "Assign an action which will be executed when double tapping on an AppHead";
+"DOUBLE_TAP_DESCRIPTION" = "Assign an action which will be executed when double tapping on an AppHead. You can specifiy the tap speed using the slider. (0 = No double tap)";
+"SCALE_DESCRIPTION" = "Specify the size of the AppHeads.";

@@ -52,4 +52,5 @@
 "DRAG_TO_CLOSE" = "AppHead를 종료하려면 여기로 드래그하세요.";
 "LOCK_UNLOCK" = "AppHead 고정 / 이동 (자유 모드)";
 "DOUBLE_TAP_ACTION" = "두 번 탭 동작";
-"DOUBLE_TAP_DESCRIPTION" = "AppHead를 두 번 탭으로 작동시킬 동작을 설정하세요.";
+"DOUBLE_TAP_DESCRIPTION" = "AppHead를 두 번 탭으로 작동시킬 동작을 설정하세요. You can specifiy the tap speed using the slider. (0 = No double tap)";
+"SCALE_DESCRIPTION" = "Specify the size of the AppHeads.";
