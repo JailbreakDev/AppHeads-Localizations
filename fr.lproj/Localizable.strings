@@ -49,7 +49,7 @@
 "TOUCHID_DESCRIPTION" = "Cette option requiet une authentification par Touch ID avant d'afficher AppHeads. Vous pouvez choisir certaines Applications à activer avec le Touch ID.";
 "TOUCHID_LIVE_VIEW" = "Touch ID pour afficher la fenêtre";
 "USER_APPS" = "Applications de l'utilisateur";
-"DRAG_TO_CLOSE" = "Drag here to close an AppHead";
+"DRAG_TO_CLOSE" = "Faites glisser ici pour fermer l'application";
 "LOCK_UNLOCK" = "Lock / Unlock AppHead (Free Mode)";
 "DOUBLE_TAP_ACTION" = "Double Tap Action";
 "DOUBLE_TAP_DESCRIPTION" = "Assign an action which will be executed when double tapping on an AppHead. You can specifiy the tap speed using the slider. (0 = No double tap)";
