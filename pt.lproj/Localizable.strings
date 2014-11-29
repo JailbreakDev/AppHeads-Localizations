@@ -53,4 +53,4 @@
 "LOCK_UNLOCK" = "Prender / Desprender AppHead (Modo Livre)";
 "DOUBLE_TAP_ACTION" = "Ação de Toque Duplo";
 "DOUBLE_TAP_DESCRIPTION" = "Um toque duplo em um AppHead ativará essa ação. You can specifiy the tap speed using the slider. (0 = No double tap)";
-"SCALE_DESCRIPTION" = "Specify the size of the AppHeads.";
+"SCALE_DESCRIPTION" = "Especifique o tamanho dos AppHeads.";
