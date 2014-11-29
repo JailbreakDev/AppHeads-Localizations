@@ -49,7 +49,7 @@
 "AUTHENTICATE_DESCRIPTION" = "라이브 뷰로 보기 전에 Touch ID를 사용하여 인증";
 "CANCEL" = "취소";
 "RESPRING" = "리스프링";
-"DRAG_TO_CLOSE" = "Drag here to close an AppHead";
-"LOCK_UNLOCK" = "Lock / Unlock AppHead (Free Mode)";
-"DOUBLE_TAP_ACTION" = "Double Tap Action";
-"DOUBLE_TAP_DESCRIPTION" = "Assign an action which will be executed when double tapping on an AppHead";
+"DRAG_TO_CLOSE" = "AppHead를 종료하려면 여기로 드래그하세요.";
+"LOCK_UNLOCK" = "AppHead 고정 / 이동 (자유 모드)";
+"DOUBLE_TAP_ACTION" = "두 번 탭 동작";
+"DOUBLE_TAP_DESCRIPTION" = "AppHead를 두 번 탭으로 작동시킬 동작을 설정하세요.";
