@@ -52,6 +52,5 @@
 "DRAG_TO_CLOSE" = "拖到这里来关闭AppHead";
 "LOCK_UNLOCK" = "锁定 / 解锁 AppHead (自由模式)";
 "DOUBLE_TAP_ACTION" = "双击动作";
-"DOUBLE_TAP_DESCRIPTION" = "双击AppHeads动作。您可以使用滑块更改点击速度
-. (0 = 禁用双击)";
+"DOUBLE_TAP_DESCRIPTION" = "双击AppHeads动作。您可以使用滑块更改点击速度. (0 = 禁用双击)";
 "SCALE_DESCRIPTION" = "调整AppHeads图标大小";
