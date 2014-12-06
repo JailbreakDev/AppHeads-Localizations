@@ -2,6 +2,8 @@
 "REQUIRES_RESPRING" = "Cambiare questa impostazione richiede un respring.";
 "APPHEADS_SETTINGS" = "Impostazioni AppHeads";
 "ENABLE_FOR_ALL_APPS" = "Abilita per tutte le applicazioni";
+"ENABLED_APPS" = "Abilita applicazioni";
+"ENABLED_APPS_INFO" = "Di default tutte le app sono abilitate. Puoi scegliere se usare solo alcune app come AppHeads qui.";
 "SHOW_HIDE_ACTION" = "Mostra / Nascondi";
 "SHOW_HIDE_DESCRIPTION" = "Assegna un'azione di Activator per mostrare / nascondere AppHeads.";
 "DESIGN_VIEW" = "Personalizza le Live View";
