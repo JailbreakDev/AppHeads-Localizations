@@ -54,3 +54,4 @@
 "DOUBLE_TAP_ACTION" = "Aksi Ketuk Ganda";
 "DOUBLE_TAP_DESCRIPTION" = "Tetapkan sebuah aksi yang akan dieksekusi ketika ketuk ganda pada AppHead. Gunakan slider untuk untuk mengatur kecepatan ketuk.(0 = tiada ketuk ganda)";
 "SCALE_DESCRIPTION" = "Tentukan ukuran AppHeads.";
+"ERROR_NO_64BIT" = "This device does not support 64bit";
