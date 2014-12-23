@@ -55,3 +55,7 @@
 "DOUBLE_TAP_DESCRIPTION" = "Um toque duplo em um AppHead ativará essa ação. You can specifiy the tap speed using the slider. (0 = No double tap)";
 "SCALE_DESCRIPTION" = "Especifique o tamanho dos AppHeads.";
 "ERROR_NO_64BIT" = "This device does not support 64bit";
+"RESTORE_DEFAULTS" = "Restore Defaults";
+"MAX_APPHEADS" = "Maximum AppHeads";
+"LIMIT_APPHEADS" = "Limit AppHeads Count";
+"MAX_ALLOWED_APPHEADS" = "Specify the maxmimum number of AppHeads to display on screen.";

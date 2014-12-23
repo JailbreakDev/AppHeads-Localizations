@@ -55,3 +55,7 @@
 "DOUBLE_TAP_DESCRIPTION" = "AppHead를 두 번 탭으로 작동시킬 동작을 설정하세요. 슬라이더를 사용하여 탭 사이의 간격을 정할 수 있습니다. (0 = 두 번 탭 안 함)";
 "SCALE_DESCRIPTION" = "AppHead의 크기를 변경하세요.";
 "ERROR_NO_64BIT" = "This device does not support 64bit";
+"RESTORE_DEFAULTS" = "Restore Defaults";
+"MAX_APPHEADS" = "Maximum AppHeads";
+"LIMIT_APPHEADS" = "Limit AppHeads Count";
+"MAX_ALLOWED_APPHEADS" = "Specify the maxmimum number of AppHeads to display on screen.";

@@ -57,3 +57,7 @@
 "DOUBLE_TAP_DESCRIPTION" = "Assegna un azione quando tocchi Due volte un Apphead. Puoi variare  la velocità del tocco attraverso lo slider. (0 = Nessun doppio tocco)";
 "SCALE_DESCRIPTION" = "Regola la dimensione delle AppHeads.";
 "ERROR_NO_64BIT" = "This device does not support 64bit";
+"RESTORE_DEFAULTS" = "Restore Defaults";
+"MAX_APPHEADS" = "Maximum AppHeads";
+"LIMIT_APPHEADS" = "Limit AppHeads Count";
+"MAX_ALLOWED_APPHEADS" = "Specify the maxmimum number of AppHeads to display on screen.";

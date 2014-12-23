@@ -55,3 +55,7 @@
 "DOUBLE_TAP_DESCRIPTION" = "Tetapkan sebuah aksi yang akan dieksekusi ketika ketuk ganda pada AppHead. Gunakan slider untuk untuk mengatur kecepatan ketuk.(0 = tiada ketuk ganda)";
 "SCALE_DESCRIPTION" = "Tentukan ukuran AppHeads.";
 "ERROR_NO_64BIT" = "This device does not support 64bit";
+"RESTORE_DEFAULTS" = "Restore Defaults";
+"MAX_APPHEADS" = "Maximum AppHeads";
+"LIMIT_APPHEADS" = "Limit AppHeads Count";
+"MAX_ALLOWED_APPHEADS" = "Specify the maxmimum number of AppHeads to display on screen.";
