@@ -59,3 +59,5 @@
 "MAX_APPHEADS" = "Maximum AppHeads";
 "LIMIT_APPHEADS" = "Limit AppHeads Count";
 "MAX_ALLOWED_APPHEADS" = "Specify the maxmimum number of AppHeads to display on screen.";
+"WHITELIST_APPS_DESCRIPTION" = "Create a whitelist of Apps not to be killed by the close all action.";
+"WHITELIST_APPS" = "Application Whitelist";
