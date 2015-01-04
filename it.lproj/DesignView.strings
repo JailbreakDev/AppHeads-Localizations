@@ -7,5 +7,5 @@
 "BACKGROUND_VIEW_OPTION_LAST_APP" = "Ultima App aperta";
 "BACKGROUMD_VIEW_OPTION_WALLPAPER" = "Vista dello Sfondo Corrente";
 "DESIGN_SETTINGS" = "Design Settings";
-"CURRENT_APP" = "App attualmente aperta";
-"CURRENT_WP" = "Sfondo attuale";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";

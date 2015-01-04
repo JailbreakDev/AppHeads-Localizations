@@ -7,5 +7,5 @@
 "BACKGROUND_VIEW_OPTION_LAST_APP" = "Laatst geopende applicatie";
 "BACKGROUMD_VIEW_OPTION_WALLPAPER" = "Huidige achtergrond";
 "DESIGN_SETTINGS" = "Ontwerp instellingen";
-"CURRENT_APP" = "Momenteel geopende applicatie";
-"CURRENT_WP" = "Ingestelde achtergrond";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";

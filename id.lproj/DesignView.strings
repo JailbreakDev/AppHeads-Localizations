@@ -7,5 +7,5 @@
 "BACKGROUND_VIEW_OPTION_LAST_APP" = "Applikasi terakhir yang dibuka";
 "BACKGROUMD_VIEW_OPTION_WALLPAPER" = "Tampilan Wallpaper Saat kini";
 "DESIGN_SETTINGS" = "Pengaturan Rancangan";
-"CURRENT_APP" = "Aplikasi sedang terbuka";
-"CURRENT_WP" = "Wallpaper saat ini";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";

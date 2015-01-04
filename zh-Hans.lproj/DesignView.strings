@@ -7,5 +7,5 @@
 "BACKGROUND_VIEW_OPTION_LAST_APP" = "设置最后打开App";
 "BACKGROUMD_VIEW_OPTION_WALLPAPER" = "设置背景";
 "DESIGN_SETTINGS" = "自定义显示设置";
-"CURRENT_APP" = "当前启动的APP";
-"CURRENT_WP" = "当前背景";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";

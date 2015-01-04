@@ -7,5 +7,5 @@
 "BACKGROUND_VIEW_OPTION_LAST_APP" = "마지막으로 실행된 앱";
 "BACKGROUMD_VIEW_OPTION_WALLPAPER" = "현재 배경화면 보임새";
 "DESIGN_SETTINGS" = "디자인 설정";
-"CURRENT_APP" = "현재 실행된 앱";
-"CURRENT_WP" = "현재 배경화면";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";

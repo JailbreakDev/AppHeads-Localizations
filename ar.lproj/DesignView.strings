@@ -7,5 +7,5 @@
 "BACKGROUND_VIEW_OPTION_LAST_APP" = "اخر برنامج فتح";
 "BACKGROUMD_VIEW_OPTION_WALLPAPER" = "شاشة الخلفية المستعملة حاليًّا";
 "DESIGN_SETTINGS" = "إعدادات التصميم";
-"CURRENT_APP" = "البرنامج المفتوح حاليًّا";
-"CURRENT_WP" = "الخلفية المستعملة حاليًّا";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";

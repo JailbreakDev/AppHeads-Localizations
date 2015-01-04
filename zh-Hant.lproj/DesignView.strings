@@ -7,5 +7,5 @@
 "BACKGROUND_VIEW_OPTION_LAST_APP" = "使用最後開啟的應用程式";
 "BACKGROUMD_VIEW_OPTION_WALLPAPER" = "使用目前背景圖片";
 "DESIGN_SETTINGS" = "設計設定";
-"CURRENT_APP" = "目前開啟的應用程式";
-"CURRENT_WP" = "目前背景圖片";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";

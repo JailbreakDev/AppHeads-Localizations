@@ -5,7 +5,7 @@
 "BORDER_COLOR" = "Choisir la couleur des bords";
 "BORDER_WIDTH" = "Choisir l'épaisseur des bords";
 "CORNER_RADIUS" = "Choisir l'intensité des angles";
-"CURRENT_APP" = "Application ouverte";
-"CURRENT_WP" = "Fond d'écran actuel";
 "DESIGN_SETTINGS" = "Réglages design";
 "LIVE_VIEW_SIZE" = "Choisir la taille de la fenêtre";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";

@@ -7,5 +7,5 @@
 "BACKGROUND_VIEW_OPTION_LAST_APP" = "Senast öppnade app";
 "BACKGROUMD_VIEW_OPTION_WALLPAPER" = "Vy med nuvarande bakgrundsbild";
 "DESIGN_SETTINGS" = "Designinställningar";
-"CURRENT_APP" = "Nuvarande öppna app";
-"CURRENT_WP" = "Nuvarande bakgrundsbild";
+"NO_BG" = "No Background View - Interaction";
+"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";
