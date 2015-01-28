@@ -7,5 +7,6 @@
 "BACKGROUND_VIEW_OPTION_LAST_APP" = "마지막으로 실행된 앱";
 "BACKGROUMD_VIEW_OPTION_WALLPAPER" = "현재 배경화면 보임새";
 "DESIGN_SETTINGS" = "디자인 설정";
-"NO_BG" = "No Background View - Interaction";
-"BG_DISMISS_LIVE_VIEW" = "Dismiss Live View on Tap";
+"NO_BG" = "배경 보기 없음 - 상호 작용";
+"BG_DISMISS_LIVE_VIEW" = "탭에 라이브 뷰 해제";
+"BIOLOCKDOWN_INTEGRATE" = "BioLockDown 사용";
